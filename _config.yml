@@ -1,19 +1,4 @@
-name: chaos
-favicon: null
-layout_spectrum: 0.51156
-typography_spectrum: 0.60597
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#c9c9d5'
@@ -23,6 +8,11 @@ color:
     - '#777783'
   brandStrength: 0.6023020977154374
   lightness: 0.7541532595641911
-  saturation: 0.7580128824338317
   rhythmicContrast: 0.34280004422180355
+  saturation: 0.7580128824338317
+cta: {}
+layout_spectrum: 0.592905
+name: chaos
+opengraph: {}
 purpose: []
+typography_spectrum: 0.1875
