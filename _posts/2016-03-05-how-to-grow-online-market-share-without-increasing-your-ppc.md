@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://searchengineland.com/grow-online-market-share-without-increasing-ppc-budget-243158'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - keywords
   - marketing
@@ -17,8 +17,8 @@ keywords:
   - conversion
   - sales
 description: "Pay-per-click advertising is all about buying online market share. People are searching online for something relevant to your business, and you pay to show up in that search. It's a great model, provided that those impressions actually turn into sales."
-datePublished: '2016-03-11T15:20:20.898Z'
-dateModified: '2016-03-11T15:19:42.526Z'
+datePublished: '2016-03-13T03:23:11.568Z'
+dateModified: '2016-03-13T03:22:49.508Z'
 author:
   - name: Jacob Baadsgaard
     url: 'http://searchengineland.com/author/jacob-baadsgaard'
