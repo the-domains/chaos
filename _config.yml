@@ -1,7 +1,7 @@
 name: chaos
 favicon: null
-layout_spectrum: 0.24759
-typography_spectrum: 0.1875
+layout_spectrum: 0.4435287010855973
+typography_spectrum: 0.5541159727144986
 title: Videos Chaos
 cta:
   domain: null
@@ -17,13 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fafbf6'
-    - '#9580b8'
-    - '#f9dcde'
-    - '#b4a584'
-    - '#68b8b5'
-  brandStrength: 0.6023020977154374
-  lightness: 0.7541532595641911
-  saturation: 0.7580128824338317
-  rhythmicContrast: 0.34280004422180355
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  brandStrength: 0.8379875367973
+  lightness: 0.9406890014652163
+  saturation: 0.579653512686491
+  rhythmicContrast: 0.3641461902298033
 purpose: []
+coverPrefs:
+  filter: false
