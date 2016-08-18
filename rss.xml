@@ -4,7 +4,7 @@
         <description><![CDATA[Videos Chaos]]></description>
         <link>https://thegrid.ai/chaos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 13:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 13:16:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chaos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Match 5 - Google DeepMind Challenge Match: Lee Sedol vs AlphaGo]]></title>
@@ -40,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=vFr3K2DORc8</link>
             <guid isPermaLink="false">4008c690-3468-4f67-9ee7-5152bc48183e</guid>
             <pubDate>Wed, 09 Mar 2016 13:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS3 Media Queries 詳細介紹與使用方法，Responsive Web Design 必備技術]]></title>
-            <description><![CDATA[<article><h1>CSS3 Media Queries 詳細介紹與使用方法，Responsive Web Design 必備技術</h1><p>上一篇我們介紹了 Responsive Web Design 之後，這次要來詳細介紹 CSS3 Media Queries 了。在上一篇中，我們提到 Responsive Web Design 的實作方式有大半都是利用 CSS3 Media Queries 來達成。而顧名思義 Media Queries 就是要在支援 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c27545e4bbdb90ef114dc19645f58a2e01f7d645.jpg"></article>]]></description>
-            <link>http://fundesigner.net/css3-media-queries/</link>
-            <guid isPermaLink="false">b8418c8b-8629-4a9a-b0c3-6631da15ccb9</guid>
-            <pubDate>Sat, 05 Mar 2016 04:09:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
