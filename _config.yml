@@ -1,20 +1,4 @@
-name: chaos
-favicon: null
-layout_spectrum: 0.4435287010855973
 typography_spectrum: 0.5541159727144986
-title: Videos Chaos
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74437051-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#595241'
@@ -26,6 +10,23 @@ color:
   lightness: 0.9406890014652163
   saturation: 0.579653512686491
   rhythmicContrast: 0.3641461902298033
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4435287010855973
+analytics:
+  google: UA-74437051-1
+  facebook: null
+  twitter: null
+name: chaos
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Videos Chaos
 coverPrefs:
   filter: false
+description: TVidEos
+purpose: []
