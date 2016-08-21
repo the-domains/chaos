@@ -1,4 +1,3 @@
-layout_spectrum: 0.5022672980558127
 typography_spectrum: 0.9234878628049046
 color:
   brandColors:
@@ -11,12 +10,11 @@ color:
   lightness: 0.9091900386847556
   saturation: 0.628500266931951
   rhythmicContrast: 0.0016853257548063993
-coverPrefs:
-  filter: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5022672980558127
 analytics:
   google: UA-74437051-1
   facebook: null
@@ -28,5 +26,7 @@ cta:
   version: null
 favicon: null
 title: Videos Chaos
-description: TVidEos
+coverPrefs:
+  filter: false
+description: ''
 purpose: []
