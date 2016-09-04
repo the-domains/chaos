@@ -1,20 +1,22 @@
-typography_spectrum: 0.9234878628049046
+layout_spectrum: 0.5342683587223291
+typography_spectrum: 0.8320444838609546
 color:
   brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
     - '#FFFFFF'
-    - '#DAD7D2'
-    - '#6B5363'
-    - '#6C87BC'
-    - '#E58D65'
-  brandStrength: 0.4316094310488552
-  lightness: 0.9091900386847556
-  saturation: 0.628500266931951
-  rhythmicContrast: 0.0016853257548063993
+  brandStrength: 0.6704171900637448
+  lightness: 0.7240145246032625
+  saturation: 0.1619490112643689
+  rhythmicContrast: 0.004954356234520674
+coverPrefs:
+  filter: false
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5022672980558127
 analytics:
   google: UA-74437051-1
   facebook: null
@@ -26,7 +28,5 @@ cta:
   version: null
 favicon: null
 title: Videos Chaos
-coverPrefs:
-  filter: false
 description: ''
 purpose: []
